@@ -1,4 +1,4 @@
-![header](/home/arif/Kuliah/CV/header-github.png)
+![header](https://github.com/arifrahmanfauzi/arifrahmanfauzi/blob/master/header-github.png)
 
 ### Hi there 👋
 
