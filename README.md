@@ -29,7 +29,7 @@ I'm Arif Rahman Fauzi, I'm from Sidoarjo, Jawa Timur, Indonesia, i have a bachel
 
 - I'm so interested with IoT
 
-- I write content on <a href="https://www/ilmusaya.web.id">ilmusya.web.id</a>
+- I write content on <a href="https://www.ilmusaya.web.id">ilmusya.web.id</a>
 
 ### What i've  learned:point_down:!
 
