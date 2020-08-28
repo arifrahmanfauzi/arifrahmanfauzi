@@ -1,6 +1,6 @@
 ![header](https://github.com/arifrahmanfauzi/arifrahmanfauzi/blob/master/header-github.png)
 
-# Do some good things :handshake:
+# *Do some good things :handshake:*
 
 ---
 
