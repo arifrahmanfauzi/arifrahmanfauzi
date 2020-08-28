@@ -29,6 +29,8 @@ I'm Arif Rahman Fauzi, I'm from Sidoarjo, Jawa Timur, Indonesia, i have a bachel
 
 - I'm so interested with IoT
 
+- I write content on <a href="https://www/ilmusaya.web.id">ilmusya.web.id</a>
+
 ### What i've  learned:point_down:!
 
 <p> <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
