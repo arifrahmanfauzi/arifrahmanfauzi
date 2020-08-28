@@ -21,7 +21,7 @@ I'm Arif Rahman Fauzi, I'm from Sidoarjo, Jawa Timur, Indonesia, i have a bachel
 
 - I'm not web designer, so dont ask me about css :joy: :v:
 
-- Currently I'm as an IT support at funbahasa.com
+- Currently I'm as an IT support at <a href="https://www.funbahasa.com" target="_blank">funbahasa.com</a> :thumbsup:
 
 - My thesis is about speech recognition with MFCC (*mel frequency cepstral coefficients*) so if you ask something about that i hope i can help.
 
