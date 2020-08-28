@@ -15,7 +15,7 @@ I'm Arif Rahman Fauzi, I'm from Sidoarjo, Jawa Timur, Indonesia, i have a bachel
   <a href="https://www.instagram.com/arifrahman.fauzi/" target="_blank"><img src="https://img.shields.io/badge/ instagram %20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
-#### My skills:point_down:!
+#### What i have learned :point_down:!
 
 <p> <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/><img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/><img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
