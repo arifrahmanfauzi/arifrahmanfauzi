@@ -21,15 +21,15 @@ I'm Arif Rahman Fauzi, I'm from Sidoarjo, Jawa Timur, Indonesia, i have a bachel
 
 - I'm not web designer, so dont ask me about css :joy: :v:
 
-- Currently I'm as an IT support at <a href="https://www.funbahasa.com" target="_blank">funbahasa.com</a> :thumbsup:
+- Currently I'm as an Co-Founder and software developer at <a href="https://www.funbahasa.com" target="_blank">funbahasa.com</a> :thumbsup:
 
 - My thesis is about speech recognition with MFCC (*mel frequency cepstral coefficients*) so if you ask something about that i hope i can help.
 
 - I had an internship as a laptop technician in Lenovo Service Center :nut_and_bolt:
 
-- I'm so interested with IoT
+- I'm so interested with IoT and Cloud Platform
 
-- I write content on <a href="https://www.ilmusaya.web.id">ilmusya.web.id</a>
+- I write content on <a href="https://www.belajarbackend.com">belajarbackend.com</a>
 
 ### What i've  learned:point_down:!
 
