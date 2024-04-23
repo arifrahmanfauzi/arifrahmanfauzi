@@ -6,12 +6,14 @@
 
 ## Welcome to my page!
 
-I'm Arif Rahman Fauzi, I'm from Sidoarjo, Jawa Timur, Indonesia, i have a bachelor's degree in Information Systems from UIN Sunan Ampel Surabaya. Currently I am available to work as freelance web developer, if you need something
+I'm Arif Rahman Fauzi, I'm from Sidoarjo, Jawa Timur, Indonesia, i have a bachelor's degree in Information Systems from UIN Sunan Ampel Surabaya. Currently I am working on startup which operates in the logistics sector as a backend developer, whatever things I do:
+- build a system which integrate with payment gateway and vehicle monitoring system
+- build infrastructure from zero until launch production using cloud platform like AWS
+- do cost efficiency on infrastructure
 
 ### You can contact me:
 
 <p>
-  <a href="https://twitter.com/arifrahman1780" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.instagram.com/arifrahman.fauzi/" target="_blank"><img src="https://img.shields.io/badge/ instagram %20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/arifrahmanfauzi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.facebook.com/arif.rahman1780" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></></a>
