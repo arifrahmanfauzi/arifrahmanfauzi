@@ -64,7 +64,7 @@ I'm Arif Rahman Fauzi, I'm from Sidoarjo, Jawa Timur, Indonesia, i have a bachel
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arifrahmanfauzi&" alt="arifrahmanfauzi"/></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arifrahmanfauzi&show_icons=true&count_private=true) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=arifrahmanfauzi&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula) 
 
 
 <div align="center">
