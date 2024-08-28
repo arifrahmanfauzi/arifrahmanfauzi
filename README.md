@@ -59,10 +59,10 @@ I'm Arif Rahman Fauzi, I'm from Sidoarjo, Jawa Timur, Indonesia, i have a bachel
   </tr>
 </table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifrahmanfauzi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifrahmanfauzi&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arifrahmanfauzi&" alt="arifrahmanfauzi"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arifrahmanfauzi&theme=dracula" alt="arifrahmanfauzi"/></p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arifrahmanfauzi&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula) 
 
