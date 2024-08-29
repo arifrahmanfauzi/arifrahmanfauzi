@@ -79,7 +79,7 @@ Feel free to reach out if you'd like to discuss backend development, cloud techn
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifrahmanfauzi&theme=dracula" width="48%" alt="GitHub Streak" />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=arifrahmanfauzi&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula" width="100%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=arifrahmanfauzi&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula" width="50%" alt="GitHub Stats" />
  
 <div align="center">
     <a href="https://paypal.me/arifrahmanfauzi" target="_blank" style="display: inline-block;">
