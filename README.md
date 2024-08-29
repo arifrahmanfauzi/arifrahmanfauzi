@@ -43,6 +43,17 @@ With a proven track record of delivering results in fast-paced startup environme
 
 - I write content on <a href="https://www.belajarbackend.com">belajarbackend.com</a>
 
+### A Bit More About Me 😊
+
+- 💻 Backend specialist with a passion for robust, scalable systems
+- 🚀 Currently contributing to an exciting language learning startup: [funbahasa.com](https://www.funbahasa.com)
+- 🎓 My academic background includes research on speech recognition using MFCC (Mel-Frequency Cepstral Coefficients) - always happy to discuss!
+- ☁️ Enthusiastic about cloud platforms and their potential to revolutionize software development
+- ✍️ Sharing knowledge and experiences through my blog: [belajarbackend.com](https://www.belajarbackend.com)
+- 🌱 Constantly learning and exploring new technologies in the backend ecosystem
+
+Feel free to reach out if you'd like to discuss backend development, cloud technologies, or collaborate on interesting projects!
+
 ### What i've  learned! 👇🏻
 
 <table>
