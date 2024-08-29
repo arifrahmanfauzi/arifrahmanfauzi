@@ -6,10 +6,14 @@
 
 ## Welcome to my page!
 
-I'm Arif Rahman Fauzi, I'm from Sidoarjo, Jawa Timur, Indonesia, i have a bachelor's degree in Information Systems from UIN Sunan Ampel Surabaya. Currently I am working on startup which operates in the logistics sector as a backend developer, whatever things I do:
-- build a system which integrate with payment gateway and vehicle monitoring system
-- build infrastructure from zero until launch production using cloud platform like AWS
-- do cost efficiency on infrastructure
+I'm Arif Rahman Fauzi, a passionate backend developer from Sidoarjo, East Java, Indonesia. With a bachelor's degree in Information Systems from UIN Sunan Ampel Surabaya, I'm currently driving innovation at a logistics-focused startup. My expertise includes:
+
+- Architecting and implementing robust systems that seamlessly integrate payment gateways and vehicle monitoring solutions
+- Spearheading end-to-end infrastructure development, from conception to production deployment, leveraging cloud platforms like AWS
+- Optimizing infrastructure costs while maintaining high performance and scalability
+- Crafting efficient, scalable backend solutions that power mission-critical business operations
+
+With a proven track record of delivering results in fast-paced startup environments, I combine technical prowess with a strategic mindset to solve complex challenges and drive business growth.
 
 ### 📫 You can reach me on:
 
